@@ -1,2 +1,3 @@
-# HistoricWagnerFarmhouseProject
-We help the Historic Wagner Farms for DTC at Northwestern University
+# Historic Wagner Farmhouse Project
+Christopher Luey (christopherluey2025@u.northwestern.edu)
+DTC Winter 2023
